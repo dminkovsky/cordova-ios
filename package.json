@@ -49,7 +49,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "cordova-common": "^3.1.0",
+    "cordova-common": "git://github.com/apache/cordova-common.git#3.2.1",
     "ios-sim": "^8.0.1",
     "nopt": "^4.0.1",
     "plist": "^3.0.1",
